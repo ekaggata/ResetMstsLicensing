@@ -2,7 +2,7 @@
 A simple Tetminal Services licensing registry keys reset tool
 
 ## Binary downloads
-A pre-built [ResetMstsLicensing.exe](/ResetMstsLicensing/bin/Release/ResetMstsLicensing.exe) file is available for download in /ResetMstsLicensing/bin/Release, you can download and start using it straight away, no actual need to build it yourself from the source code.
+A pre-built [ResetMstsLicensing.exe](/ResetMstsLicensing/bin/Release/ResetMstsLicensing.exe?raw=true) file is available for download in /ResetMstsLicensing/bin/Release, you can download and start using it straight away, no actual need to build it yourself from the source code.
 
 ## Technology / platform / requirements
 It's a .Net console application written in C# (using Visual Studio 2017 Community Edition), built for .Net framework 4.5.2, meant to be ran on Windows Vista or newer (only tested to run on Windows 7 x86-64 English version) with alocal administrator rights and having no extra library dependencies though making use of native WinAPI DLLs (which means it can hardly be expected to be runnable with alternative .Net Framework implementations and on non-Windows OSes).
