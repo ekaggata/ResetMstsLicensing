@@ -21,5 +21,5 @@ Don't use it unless you are sure the registry keys mentioned above don't contain
 ## Licensing problems
 The program makes use of a class ("TokenManipulator" in the "TokenManipulator.cs" file) that is just a slightly modified version of one I've stumpled upon in the Internet but failed to find any copyright/licensing information for. However, the code I've written myself is totally free (public domain).
 
-##Disclaimer
+## Disclaimer
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
